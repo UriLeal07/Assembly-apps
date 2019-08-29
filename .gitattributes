@@ -1,1 +1,2 @@
-*.asm linguist-language=Assembly
+* linguist-vendored
+*.asm linguist-vendored=false
