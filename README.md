@@ -9,3 +9,5 @@ Typical Assembly programs used to explore and learn how to use Assembler languag
 
 => Operating System: Microsoft Windows 7 Professional SP1
 => IDE: Microsoft Visual Studio Ultimate 2013 v12.0.21005.1
+
+Comments and some prints in spanish
